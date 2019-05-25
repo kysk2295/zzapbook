@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home"
+        android:enabled="true"
+        android:icon="@drawable/black_gallery"
+        android:title="">
+
+    </item>
+
+    <item android:id="@+id/friends"
+        android:enabled="true"
+        android:icon="@drawable/friend3"
+        android:title="">
+
+    </item>
+
+    <item android:id="@+id/tv"
+        android:icon="@drawable/tv"
+        android:enabled="true"
+        android:title="">
+
+    </item>
+
+    <item android:id="@+id/account"
+        android:icon="@drawable/user"
+        android:enabled="true"
+        android:title="">
+
+    </item>
+    <item android:id="@+id/bell"
+        android:icon="@drawable/alarm"
+        android:enabled="true"
+        android:title="">
+
+    </item>
+
+
+
+</menu>

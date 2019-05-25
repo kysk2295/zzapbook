@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1013537221096",
+    "firebase_url": "https://zzapbook-cd3e7.firebaseio.com",
+    "project_id": "zzapbook-cd3e7",
+    "storage_bucket": "zzapbook-cd3e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013537221096:android:f0680e8d743f42c2",
+        "android_client_info": {
+          "package_name": "com.kys.lg.zzakbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013537221096-f9dir3o6kbdbdeotmt1777dlol5c3jfd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kys.lg.zzakbook",
+            "certificate_hash": "1166e4d88e3480db891a57b2f12c79f2db320b14"
+          }
+        },
+        {
+          "client_id": "1013537221096-aqtb4981gvd3mk36obbacb5qg6jgrnea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBw4kaug48iEFOXkZi_pxiENRVczZCcwE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013537221096-aqtb4981gvd3mk36obbacb5qg6jgrnea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
